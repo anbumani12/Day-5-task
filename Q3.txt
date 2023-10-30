@@ -1,4 +1,4 @@
-Q3.Read about the difference between window screen and document in JavaScript:
+//Q3.Read about the difference between window screen and document in JavaScript:
 
 In JavaScript, the terms "window," "screen," and "document" refer to different objects and concepts that are part of the web browsing environment.
 //Window Object:-
