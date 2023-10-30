@@ -93,7 +93,7 @@ var jsonArray = [
         "graduation_year": 2021
       }
     ],
-    
+
     "experience": [
       {
         "position": "senior full stack developer",
